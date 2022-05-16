@@ -27,12 +27,6 @@ Para configurar a aplicação também é preciso ter:
   # Clonar o repositório
   $ git clone https://github.com/Marcelusgb/teste-sicred
 
-  # Entrar no diretório
-  $ cd marvel-comics-app
-  
-  # Iniciar o projeto
-  $ npm start
-
 ```
 
 
@@ -45,3 +39,15 @@ Instale my-project com npm
   npm install my-project
   cd my-project
 ```
+
+
+ ## Rodar projeto
+ 
+ 
+ 
+```bash
+
+  npm start
+
+```
+
